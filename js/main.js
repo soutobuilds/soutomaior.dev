@@ -287,6 +287,29 @@ and team communication  </li>
                 </p>
             </div>
 
+
+          <div class="project-card">
+                <h3>Founder & Drone Operator</h3>
+                <p><strong>Reluxe Drone Views</strong> | 08/2024 - Current</p>
+                <p>
+                <ul>
+                    <li>Deliver immersive FPV and Aerial drone content for real estate, events, businesses and more. Providing cinematic footage that 
+                    elevates the client's vision and increases viewer engagement.</li>
+                    
+                    <li>Manage multiple client projects simultaneously from initial discovery to final delivery. Ensuring deadlines, 
+                    creative direction, and client expectations are consistently met.</li>
+                    
+                    <li> Build and maintain long-term relationships with clients through reliable service, transparent 
+                    communication, and a strong focus on understanding marketing goals. </li>
+                   
+                    <li> Implement consistent communication workflows, keeping all parties informed with 
+                    project timelines, revisions, and deliverable milestones. </li>
+                </ul>
+                </p>
+            </div>
+
+
+
             <div class="project-card">
                 <h3>Senior Account Manager</h3>
                 <p><strong>Safe-Reach Digital Marketing </strong> |  09/2021 - 02/2024</p>
